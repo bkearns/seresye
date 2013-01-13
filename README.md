@@ -1,5 +1,8 @@
 SERESYE - Swarm oriented ERlang Expert SYstem Engine
 ====================================================
+Current Status
+--------------
+[![Build Status](https://secure.travis-ci.org/bkearns/seresye.png)](http://travis-ci.org/bkearns/seresye)
 
 Introduction
 ------------
